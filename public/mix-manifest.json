@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/user/all.css": "/user/all.css",
+    "/user/all.js": "/user/all.js",
+    "/userpanel/all.css": "/userpanel/all.css",
+    "/userpanel/all.js": "/userpanel/all.js",
+    "/admin/all.css": "/admin/all.css",
+    "/admin/all.js": "/admin/all.js"
+}

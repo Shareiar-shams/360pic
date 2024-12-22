@@ -31,14 +31,14 @@ return [
     ],
 
     'facebook' => [
-        'client_id' => '721782202550351',
-        'client_secret' => '89f946d0c7fca93a807cb1a3df23c17b',
+        'client_id' => 'client-id',
+        'client_secret' => 'client-secret',
         'redirect' => 'https://360pic.com/callback',
     ],
 
     'google' => [
-        'client_id' => '139875157057-irlpd9vb2hku7h4c09k16u641sda8u1s.apps.googleusercontent.com',
-        'client_secret' => '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',
+        'client_id' => 'you-client-id',
+        'client_secret' => 'client-secret',
         'redirect' => 'https://360pic.com/auth/google/callback',
     ],
 
